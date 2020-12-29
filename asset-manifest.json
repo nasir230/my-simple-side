@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-simple-side/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/my-simple-side/static/js/main.ec2b6bf1.chunk.js",
+    "main.js.map": "/my-simple-side/static/js/main.ec2b6bf1.chunk.js.map",
+    "runtime-main.js": "/my-simple-side/static/js/runtime-main.e3ee8862.js",
+    "runtime-main.js.map": "/my-simple-side/static/js/runtime-main.e3ee8862.js.map",
+    "static/js/2.6aa84c85.chunk.js": "/my-simple-side/static/js/2.6aa84c85.chunk.js",
+    "static/js/2.6aa84c85.chunk.js.map": "/my-simple-side/static/js/2.6aa84c85.chunk.js.map",
+    "static/js/3.98bf5ea6.chunk.js": "/my-simple-side/static/js/3.98bf5ea6.chunk.js",
+    "static/js/3.98bf5ea6.chunk.js.map": "/my-simple-side/static/js/3.98bf5ea6.chunk.js.map",
+    "index.html": "/my-simple-side/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/my-simple-side/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.6aa84c85.chunk.js.LICENSE.txt": "/my-simple-side/static/js/2.6aa84c85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3ee8862.js",
+    "static/js/2.6aa84c85.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ec2b6bf1.chunk.js"
+  ]
+}
